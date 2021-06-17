@@ -1,0 +1,29 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 700px;
+    border-style: solid;
+   
+}
+table, th, td{
+    border: 5px solid greenyellow;
+    background-color: lightgrey;
+}
+.heading{
+    font-weight: 100;
+    text-align: left;
+}
+
+.name{
+    
+    padding-right: 300px;
+}
+
+.year{
+    
+    padding-right: 40px;
+}
+.amount{
+    
+    padding-right: 50px;
+}
